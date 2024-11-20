@@ -41,7 +41,7 @@ UI Design: Material Design
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/hammad5647/Quiz-App  
+git clone https://github.com/hammad5647/Quizee
 Open in Android Studio
 Navigate to the project folder and open it in Android Studio.
 
@@ -57,7 +57,7 @@ Multiplayer Mode: Compete with friends in real-time quizzes! 🎉
 Here’s a sneak peek at the app interface:
 
 
-<h2></h2>💬 Feedback & Contributions
+<h2>💬 Feedback & Contributions</h2>
 We’re always looking to improve! 🛠️
 If you have ideas or encounter any issues, feel free to:
 
@@ -66,4 +66,5 @@ Submit a Pull Request.
 <h2>⚙️ Assumptions Made</h2>
 Stable internet connectivity is required for fetching quiz questions.
 The app currently supports multiple-choice quizzes only.
-🎉 Happy Quizzing! 😊
+
+<h1>🎉 Happy Quizzing! 😊</h1>
