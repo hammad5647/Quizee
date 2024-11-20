@@ -52,9 +52,26 @@ Run the app on an emulator or a connected Android device.
 True/False Questions: Add more variety to question types.
 User Profiles: Track individual progress and achievements.
 Multiplayer Mode: Compete with friends in real-time quizzes! 🎉
+<h2>🎨 Screenshots</h2>
+Here’s a detailed look at the app interface, categorized by screen:
 
-<h2>🎨 Screenshots </h2>
-Here’s a sneak peek at the app interface:
+📱 Splash Screen
+<p> <img src="https://github.com/user-attachments/assets/d39787ba-fd8b-4eb1-b627-4663edb1cfde" width="250px"/> </p>
+🔐 Sign Up / Sign In Screen
+<p> <img src="https://github.com/user-attachments/assets/f1ebdf74-a8aa-44f8-af1b-ca868a14f9d8" width="250px"/> </p>
+🏠 Homepage
+<p> <img src="https://github.com/user-attachments/assets/040fe974-48cc-4d1f-852f-b6a1818350a4" width="250px"/> </p>
+🎮 Category Screen
+<p> <img src="https://github.com/user-attachments/assets/8e48d281-5c08-44c9-b933-506219e611e3" width="250px"/> <img src="https://github.com/user-attachments/assets/17716d3c-20c4-4829-b9e4-0c11428b52e1" width="250px"/> </p>
+❓ Quiz Screen
+<p> <img src="https://github.com/user-attachments/assets/95959a01-01d6-4d0d-bf3a-a79ad288755b" width="250px"/> <img src="https://github.com/user-attachments/assets/749ed7bb-7d83-4bb8-862c-424c24760bcb" width="250px"/> </p>
+🏆 Result Screen
+<p> <img src="https://github.com/user-attachments/assets/7f3bff83-0a13-43fa-9c2c-26c1ef143709" width="250px"/> </p>
+
+<h2>🎥 Demo Video</h2>
+Watch the app in action! See how the Quiz App works with a quick demo:
+https://github.com/user-attachments/assets/925bbb14-e6ac-4ce0-95cf-0dd721ad88f6
+Click the video above to view a full walkthrough of the app and its features.
 
 
 <h2>💬 Feedback & Contributions</h2>
